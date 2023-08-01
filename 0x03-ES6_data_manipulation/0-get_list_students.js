@@ -1,9 +1,3 @@
-/**
- * Retrieves a list of students.
- * @author Adewale Fatoki <https://github.com/adewaleftk>
- * @returns {{id: Number, firstName: String, location: String}[]}
- */
-
 function getListStudents() {
   return [
     { id: 1, firstName: 'Guillaume', location: 'San Francisco' },
