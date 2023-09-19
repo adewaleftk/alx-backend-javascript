@@ -5,6 +5,6 @@
  */
 function displayMessage(message) {
     console.log(message); // This will print the message to STDOUT
-  }
+}
 
 module.exports = displayMessage;
